@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Felipe 👋
 
-<!--
-**lipefurlan/lipefurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação (FACAMP) e desenvolvedor full-stack. Atualmente **R&D Intern na Motorola**, trabalhando com Angular e TypeScript no front-end e Java/Spring Boot e BigQuery no back-end, em um time global.
 
-Here are some ideas to get you started:
+**Stack:** Angular · TypeScript · Java · Spring Boot · BigQuery · Python · FastAPI · React · Flutter · PostgreSQL · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos no ar
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Tigela](https://tigela.felipefurlan.com.br) | PWA multi-família para registrar a alimentação dos pets, com NFC e notificações push | React · FastAPI · PostgreSQL |
+| [UniHub](https://app.felipefurlan.com.br) | Plataforma de bem-estar universitário com repasse por check-in | Flutter · FastAPI · PostgreSQL |
+
+Fora do código: triatleta amador, e passei os últimos anos coordenando equipes e eventos universitários para mais de 1.000 participantes.
+
+📍 Americana, SP · [felipefurlan.com.br](https://felipefurlan.com.br) · [LinkedIn](https://www.linkedin.com/in/felipe-furlan-)
