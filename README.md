@@ -2,7 +2,7 @@ Computer Engineering student (Dec 2026) building AI agents on Claude. R&D Softwa
 
 #### Now
 
-- Founder of **[Cerchia](https://cerchia.com.br)** — an AI sales and customer-service agent for small businesses on WhatsApp (TypeScript, Claude/OpenAI APIs, PostgreSQL). Code is private.<!-- Architecture write-up: [cerchia.com.br/how-it-works](https://cerchia.com.br/how-it-works) -->
+- Founder of **[Cerchia](https://cerchia.com.br)** — an AI sales and customer-service agent for small businesses on WhatsApp (TypeScript, Claude/OpenAI APIs, PostgreSQL). Code is private; architecture write-up: [cerchia.com.br/how-it-works](https://cerchia.com.br/how-it-works).
 - **Motorola (Lenovo)** — full-stack on a global internal platform (Angular, Java/Spring Boot, BigQuery, Cloud SQL); built a cost-consolidation module end-to-end and structured the monorepo's docs as context files for AI coding assistants.
 - Previously **computer vision** for defect detection in an industrial plant (Python, OpenCV, YOLOv8 — mAP@0.5 88.6%).
 
